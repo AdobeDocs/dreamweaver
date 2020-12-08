@@ -16,7 +16,7 @@ Dreamweaver provides its own API as well as Common Extensibility Platform (CEP),
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_AssetCheck_18_N.svg)
+![alt text](images/dream_features1.old.png)
 
 ### Build custom web development tools
 
@@ -26,7 +26,7 @@ Your Dreamweaver extensions can import database data into web forms, auto-genera
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_AssetsLinkedPublished_18_N.svg)
+![alt text](images/dream_features2.old.jpg)
 
 ### Drive web development through automation
 
@@ -35,7 +35,7 @@ Both the Dreamweaver API and CEP give you the power to develop automatic process
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_FileHTML_18_N.svg)
+![alt text](images/dream_features3.old.png)
 
 ### Build on a familiar foundation
 
@@ -43,7 +43,7 @@ Use CEP and the web development skills you already have to create your own HTML-
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluScriptingAndActions_96.svg)
+![alt text](images/S_IlluScriptingAndActions_96.svg)
 
 ### Extend Dreamweaver using C++ and JavaScript
 
@@ -52,7 +52,7 @@ Write extensions built in C++ or JavaScript that use the API to add your own fun
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluCepPlugin_96.svg)
+![alt text](images/S_IlluCepPlugin_96.svg)
 
 ### Leverage the Common Extensbility Platform (CEP)
 
@@ -60,7 +60,7 @@ Dreamweaver now supports CEP, which lets you build plug-ins and panels for Dream
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluAddServersideFunctions_96.svg)
+![alt text](images/S_IlluAddServersideFunctions_96.svg)
 
 ### Add server-side functions to your extensions
 
@@ -68,7 +68,7 @@ The Dreamweaver API lets you access server-side data, load server-side scripts, 
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluCreatePanels_96.svg)
+![alt text](images/S_IlluCreatePanels_96.svg)
 
 ### Add your own menus, panels, toolbars, reports, and inspectors
 
@@ -76,7 +76,7 @@ Your extensions can modify the Dreamweaver UI in almost any way you want. Add ne
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluMonetize_96.svg)
+![alt text](images/S_IlluMonetize_96.svg)
 
 #### Share your extensions
 
