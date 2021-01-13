@@ -1,6 +1,6 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+title: Creative Cloud - Dreamweaver
+description: This is the home page of Dreamweaver APIs 
 ---
  
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
