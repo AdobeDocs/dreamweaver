@@ -68,7 +68,7 @@ The Dreamweaver API lets you access server-side data, load server-side scripts, 
 Your extensions can modify the Dreamweaver UI in almost any way you want. Add new items to menus and toolbars or entirely new ones; create your own floating panels, reports, and property inspectors.
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
