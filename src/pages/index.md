@@ -5,9 +5,9 @@ description: This is the home page of Dreamweaver APIs
  
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![Dreamweaver Logo](images/dw_appicon_256.svg)
+![Dreamweaver Logo](https://adobe.io/shared/icons/dw_appicon_64.svg)
 
 # Enhance and extend Dreamweaver
 
@@ -70,7 +70,7 @@ Your extensions can modify the Dreamweaver UI in almost any way you want. Add ne
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
