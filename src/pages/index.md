@@ -1,4 +1,7 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
 title: Creative Cloud - Dreamweaver
 description: This is the home page of Dreamweaver APIs 
 ---
